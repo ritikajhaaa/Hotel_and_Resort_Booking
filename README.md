@@ -1,5 +1,5 @@
 
-# Hotel Booking Website - Front End Project
+# Hotel Booking Website
 
 [Click here to go to the website](https://ritikajhaaa.github.io/Hotel_and_Resort_Booking/)
 
