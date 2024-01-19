@@ -10,7 +10,6 @@ Welcome to our Hotel Booking Website, a responsive web application built using H
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -36,11 +35,6 @@ Welcome to our Hotel Booking Website, a responsive web application built using H
 2. Use the booking system to select desired dates and rooms.
 3. Check room availability in real-time.
 4. Fill out the inquiry form to get in touch with the hotel staff.
-
-## Screenshots
-![Homepage](/path)
-
-*The homepage snapshot presents our Hotel Booking Website's user-friendly design. It highlights key features like a simple booking system, real-time availability check, and an easy inquiry form. The clean layout and appealing visuals create a welcoming experience for users to seamlessly explore and book their stay.*
 
 
 
