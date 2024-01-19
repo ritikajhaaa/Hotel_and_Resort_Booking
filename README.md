@@ -1,6 +1,8 @@
 
 # Hotel Booking Website - Front End Project
 
+[Click here to go to the website](https://ritikajhaaa.github.io/Hotel_and_Resort_Booking/)
+
 Welcome to our Hotel Booking Website, a responsive web application built using HTML, CSS, and JavaScript. This project aims to provide users with a seamless experience for booking hotel rooms, checking availability, making inquiries, and exploring general information about the hotel.
 
 ## Table of Contents
